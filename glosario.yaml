@@ -1,0 +1,84 @@
+es-en:
+  insulinoterapia: insulin therapy
+  monitoreo de glucosa: glucose monitoring
+  monitoreo continuo de glucosa: continuous glucose monitoring (CGM)
+  sensor de glucosa intersticial: interstitial glucose sensor
+  ritmo cardiaco: heart rate
+  dispositivo portátil: portable device
+  cuenta regresiva: countdown
+  botón abortivo: abort button
+  vista explotada: exploded view
+  armazón: casing
+  cápsula: capsule
+  inyector: injector
+  bomba: pump
+  manguera primaria: primary tube
+  manguera secundaria: secondary tube
+  tiempo en rango: time in range
+  automonitoreo: self-monitoring
+  lapiceros conectados: connected insulin pens
+  diabetes tipo 1: type 1 diabetes
+  registro de auditoría: audit log
+  trazabilidad: traceability
+
+# Generado invirtiendo es-en y agregando los overrides de traductor/glosario.py
+# (python -m traductor.glosario comprueba que está al día).
+en-es:
+  abort button: botón abortivo
+  audit log: registro de auditoría
+  capsule: cápsula
+  casing: armazón
+  connected insulin pens: lapiceros conectados
+  continuous glucose monitoring (CGM): monitoreo continuo de glucosa
+  countdown: cuenta regresiva
+  exploded view: vista explotada
+  glucose monitoring: monitoreo de glucosa
+  heart rate: ritmo cardiaco
+  injector: inyector
+  insulin therapy: insulinoterapia
+  interstitial glucose sensor: sensor de glucosa intersticial
+  mobile application: aplicación móvil
+  portable device: dispositivo portátil
+  primary tube: manguera primaria
+  pump: bomba
+  secondary tube: manguera secundaria
+  self-monitoring: automonitoreo
+  time in range: tiempo en rango
+  traceability: trazabilidad
+  tube: manguera
+  type 1 diabetes: diabetes tipo 1
+
+no_traducir:
+  - SSRG International Journal of Electrical and Electronics Engineering
+  - Seventh Sense Research Group
+  - Universidad Continental
+  - Android Studio
+  - Kotlin
+  - Jetpack Compose
+  - Room
+  - DataStore
+  - WorkManager
+  - StateFlow
+  - Bluetooth Low Energy
+  - local-first
+  - nivel_glucosa
+  - ritmo_cardiaco
+  - gramos_carbohidratos
+  - dosis_programada
+  - hora_programada
+  - estado_evento
+  - nivel_bateria
+  - nivel_deposito
+  - estado_conexion
+  - evento_auditoria
+  - lectura_glucosa
+  - lectura_pulso
+  - registro_carbohidratos
+  - programacion_insulina
+  - evento_insulina
+  - estado_dispositivo
+  - PENDIENTE_DE_CONFIRMACION
+  - PROGRAMADA
+  - CANCELADA
+  - SIMULADA
+  - FALLIDA

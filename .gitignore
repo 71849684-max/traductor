@@ -1,0 +1,31 @@
+# Secretos y entorno
+.env
+.venv/
+
+# Caché y temporales
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.test-tmp/
+.superpowers/
+
+# Salidas generadas
+salidas/
+resultados/
+analisis/
+
+# Documentos de muestra y datos del usuario (no se versionan)
+documentos/
+
+# Archivos generados por el traductor
+*_SIMULADO.docx
+*_prueba.docx
+*.informe.md
+*.respuestas.txt
+*.inspeccion.txt
+
+# Build artifacts
+src/traductor.egg-info/
+build/
+dist/
